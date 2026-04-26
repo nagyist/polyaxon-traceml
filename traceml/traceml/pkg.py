@@ -4,6 +4,6 @@ DESC = (
     "Engine for ML/Data tracking, visualization, dashboards, and model UI for Polyaxon."
 )
 URL = "https://github.com/polyaxon/traceml"
-AUTHOR = "Polyaxon, Inc."
+AUTHOR = "Polyaxon authors"
 EMAIL = "contact@polyaxon.com"
 LICENSE = "Apache 2.0"
